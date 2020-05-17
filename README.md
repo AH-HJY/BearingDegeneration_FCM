@@ -1,0 +1,2 @@
+# BearingDegeneration_FCM
+FCM、BearingDegeneration、Membership
